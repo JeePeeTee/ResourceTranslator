@@ -1,0 +1,3 @@
+# Bing translator for Json Recources
+
+## Keep coding with Azure...
